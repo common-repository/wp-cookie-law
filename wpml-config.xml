@@ -1,0 +1,12 @@
+<wpml-config>
+	<admin-texts>
+        <key name="WPookieLaw">
+            <key name="notify_message" />
+            <key name="button_1_text" />
+            <key name="button_1_url" />
+            <key name="button_2_text" />
+            <key name="button_2_url" />
+            <key name="showagain_text" />
+    	</key>
+	</admin-texts>
+</wpml-config>
